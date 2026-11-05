@@ -1,0 +1,29 @@
+{
+  "project": "VEERA",
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "method": "LoRA fine-tuning",
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "training_examples": 2867,
+  "training_images": 300,
+  "epochs": 1,
+  "optimizer_steps": 180,
+  "final_mean_training_loss": 0.047,
+  "validation": {
+    "examples": 954,
+    "baseline_correct": 893,
+    "baseline_accuracy": 0.9360587002096437,
+    "finetuned_correct": 911,
+    "finetuned_accuracy": 0.9549266247379455
+  },
+  "test": {
+    "examples": 958,
+    "baseline_correct": 898,
+    "baseline_accuracy": 0.9373695198329853,
+    "finetuned_correct": 918,
+    "finetuned_accuracy": 0.9582463465553236
+  },
+  "created_utc": "2026-10-25T18:18:52.314798Z",
+  "note": "Adapter checkpoint only; base model weights are not included. Evidence acquisition and abstention require separate validation."
+}

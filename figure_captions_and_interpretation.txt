@@ -1,0 +1,83 @@
+
+VEERA: RESEARCH FIGURE CAPTIONS AND INTERPRETATIONS
+
+FIGURE 1 — Baseline vs. LoRA Fine-Tuned Accuracy
+
+Caption:
+Accuracy of the baseline Qwen2.5-VL-3B-Instruct model and its
+LoRA fine-tuned version on the RePOPE validation and test splits.
+
+Interpretation:
+Validation accuracy increased from 93.61% to 95.49%, an improvement
+of 1.88 percentage points. Test accuracy increased from 93.74% to
+95.82%, an improvement of approximately 2.09 percentage points.
+These results indicate improved binary yes/no classification
+performance after fine-tuning on this dataset.
+
+
+FIGURE 2 — Fine-Tuned Test Confusion Matrix
+
+Caption:
+Confusion matrix of the LoRA fine-tuned model on 958 RePOPE
+test examples.
+
+Interpretation:
+The model correctly classified 708 of 722 actual "no" examples
+and 210 of 236 actual "yes" examples. It produced 14 false positives
+and 26 false negatives. This shows that false negatives were more
+frequent than false positives in this evaluation.
+
+
+FIGURE 3 — Accuracy–Latency Trade-off
+
+Caption:
+Comparison of test accuracy and mean inference latency for the
+baseline and LoRA fine-tuned models.
+
+Interpretation:
+Fine-tuning improved test accuracy by approximately 2.09 percentage
+points. Mean latency increased from approximately 0.439 to 0.503
+seconds per question, around 14.6%. Latency depends on the hardware
+and inference setup, so these values should be reported with the
+experimental environment.
+
+
+FIGURE 4 — Crop-Based Evidence Inspection Outcomes
+
+Caption:
+Number of predictions corrected, broken, and net additional correct
+after applying the crop policy to the validation and test splits.
+
+Interpretation:
+On validation, 14 errors were corrected and 6 correct predictions
+were broken, yielding a net gain of 8. On test, 12 were corrected
+and 11 were broken, yielding a net gain of 1.
+
+IMPORTANT LIMITATION:
+The crop policy was tuned post hoc on both splits. These numbers are
+exploratory and must not be presented as an unbiased estimate of
+generalization. Tune the policy on development data and evaluate it
+once on a separate untouched test set.
+
+
+FIGURE 5 — Accuracy Across Evaluation Splits
+
+Caption:
+Baseline and LoRA fine-tuned accuracy on validation and test splits.
+
+Interpretation:
+The fine-tuned model outperformed the baseline on both recorded
+splits. This figure presents the same accuracy results as Figure 1
+in a different format; a research paper may use only one of them.
+
+
+GENERAL LIMITATIONS
+
+1. The model was fine-tuned for binary yes/no classification on
+   RePOPE. These results do not establish general-purpose VQA ability.
+2. The figures do not independently validate the full adaptive
+   evidence acquisition, abstention, or compute-allocation pipeline.
+3. The reliability score and coverage-risk curves for the fine-tuned
+   model must be calculated from its own prediction scores.
+4. Point estimates alone do not establish statistical significance.
+   Consider paired confidence intervals or McNemar's test.

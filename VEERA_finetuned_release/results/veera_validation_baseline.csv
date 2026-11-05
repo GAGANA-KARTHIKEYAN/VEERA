@@ -1,0 +1,955 @@
+image_id,question,ground_truth,prediction,raw_response,correct,latency_seconds,category
+000000310196,Is there a snowboard in the image?,yes,yes,Yes,True,0.5258196830000088,random
+000000310196,Is there a car in the image?,no,no,No,True,0.4078317039993635,random
+000000310196,Is there a person in the image?,yes,yes,Yes,True,0.40116121800019755,random
+000000310196,Is there a sandwich in the image?,no,no,No,True,0.40024185799939005,random
+000000310196,Is there a skis in the image?,no,no,No,True,0.4069683609995991,random
+000000310196,Is there a couch in the image?,no,no,No,True,0.4057373129999178,random
+000000211674,Is there a person in the image?,yes,yes,Yes,True,0.3932936929995776,random
+000000211674,Is there a teddy bear in the image?,no,no,No,True,0.39127533300052164,random
+000000211674,Is there a potted plant in the image?,yes,no,no,False,0.40027515899964783,random
+000000211674,Is there a broccoli in the image?,no,no,No,True,0.38937411900042207,random
+000000211674,Is there an orange in the image?,no,no,No,True,0.39253449399984675,random
+000000283412,Is there a dog in the image?,yes,yes,Yes.,True,0.46757251000053657,random
+000000283412,Is there a toaster in the image?,no,no,No,True,0.40163108200067654,random
+000000283412,Is there a sports ball in the image?,no,no,No,True,0.40624161300002015,random
+000000283412,Is there a bed in the image?,no,no,No,True,0.40413665100004437,random
+000000283412,Is there a book in the image?,no,no,No,True,0.40796865799984516,random
+000000461331,Is there a tv in the image?,no,no,No,True,0.46777313699931256,random
+000000461331,Is there a bowl in the image?,no,no,No,True,0.47058239600028173,random
+000000461331,Is there a toaster in the image?,yes,no,No,False,0.4697995959995751,random
+000000461331,Is there a cow in the image?,no,no,No,True,0.4730191369999375,random
+000000461331,Is there a microwave in the image?,yes,yes,Yes,True,0.4697951029993419,random
+000000461331,Is there a laptop in the image?,no,no,No,True,0.4719922360000055,random
+000000574692,Is there a person in the image?,yes,yes,Yes,True,0.40410487500048475,random
+000000574692,Is there a bear in the image?,no,no,No,True,0.40699782999945455,random
+000000574692,Is there an orange in the image?,yes,yes,Yes,True,0.4054673999999068,random
+000000574692,Is there a cow in the image?,no,no,No,True,0.40304432599987194,random
+000000574692,Is there a bottle in the image?,yes,yes,Yes,True,0.40399026199975197,random
+000000574692,Is there a bed in the image?,no,no,No,True,0.39668443399932585,random
+000000300368,Is there a knife in the image?,yes,yes,Yes,True,0.4579703259996677,random
+000000300368,Is there a teddy bear in the image?,no,no,No,True,0.4789985700008401,random
+000000300368,Is there a person in the image?,yes,yes,Yes,True,0.4738131969997994,random
+000000300368,Is there a hot dog in the image?,no,no,No,True,0.4782780100003947,random
+000000300368,Is there a cake in the image?,yes,yes,Yes.,True,0.5480547239994848,random
+000000300368,Is there a tie in the image?,no,no,no,True,0.47231046100023377,random
+000000516916,Is there a tv in the image?,no,yes,Yes,False,0.4823765139999523,random
+000000516916,Is there a bed in the image?,no,no,No,True,0.4787386529997093,random
+000000516916,Is there a bench in the image?,no,no,No,True,0.48016133700002683,random
+000000516916,Is there a laptop in the image?,yes,yes,Yes,True,0.47873647999949753,random
+000000516916,Is there a skateboard in the image?,no,no,No,True,0.47739048299990827,random
+000000297078,Is there a backpack in the image?,yes,yes,Yes,True,0.32306443299967214,random
+000000297078,Is there a bear in the image?,no,no,No,True,0.3221091579998756,random
+000000297078,Is there a person in the image?,yes,yes,Yes,True,0.3231103890002487,random
+000000297078,Is there a cup in the image?,no,no,No,True,0.329636424000455,random
+000000297078,Is there a skis in the image?,yes,yes,Yes,True,0.32422159199995804,random
+000000297078,Is there a sink in the image?,no,no,No,True,0.3274487959997714,random
+000000033270,Is there a tv in the image?,yes,yes,Yes,True,0.4107583599998179,random
+000000033270,Is there a cat in the image?,no,no,No,True,0.41263147900008335,random
+000000033270,Is there a person in the image?,yes,no,No,False,0.41998572900047293,random
+000000033270,Is there a donut in the image?,no,no,No,True,0.4201925420002226,random
+000000033270,Is there a couch in the image?,yes,yes,Yes,True,0.4173543389997576,random
+000000033270,Is there a teddy bear in the image?,no,yes,Yes,False,0.41907692899985705,random
+000000288639,Is there a sink in the image?,yes,yes,Yes,True,0.47764969899981224,random
+000000288639,Is there a sheep in the image?,no,no,No,True,0.48770263500045985,random
+000000288639,Is there a toothbrush in the image?,yes,yes,Yes,True,0.49496016099965345,random
+000000288639,Is there a backpack in the image?,no,no,No,True,0.48500497300028655,random
+000000288639,Is there a horse in the image?,no,no,No,True,0.4788807340000858,random
+000000526321,Is there a laptop in the image?,yes,yes,Yes,True,0.2936794249999366,random
+000000526321,Is there a truck in the image?,no,no,no,True,0.3139379109998117,random
+000000526321,Is there a remote in the image?,yes,no,no,False,0.3022176570002557,random
+000000526321,Is there a hot dog in the image?,no,no,No,True,0.29917851200025325,random
+000000526321,Is there a dining table in the image?,no,no,No,True,0.2964642560000357,random
+000000526321,Is there a bowl in the image?,no,no,No,True,0.30430342399995425,random
+000000360600,Is there a person in the image?,yes,yes,Yes,True,0.48783391200049664,random
+000000360600,Is there a mouse in the image?,no,no,No,True,0.484152520999487,random
+000000360600,Is there a fork in the image?,yes,no,No,False,0.48376600600022357,random
+000000360600,Is there a bed in the image?,no,no,No,True,0.4829998389996035,random
+000000360600,Is there a knife in the image?,yes,yes,Yes.,True,0.5505680309997842,random
+000000360600,Is there a baseball glove in the image?,no,no,No,True,0.4813241969995943,random
+000000500257,Is there a stop sign in the image?,no,no,No,True,0.3353802090005047,random
+000000500257,Is there a dog in the image?,no,no,No,True,0.33786840500033577,random
+000000500257,Is there a person in the image?,yes,yes,Yes,True,0.33967341799962014,random
+000000500257,Is there an apple in the image?,no,no,No,True,0.33746940399942105,random
+000000565941,Is there a person in the image?,yes,yes,Yes,True,0.32903824299955886,random
+000000565941,Is there a cat in the image?,no,no,No,True,0.32984739400035323,random
+000000565941,Is there a bottle in the image?,yes,yes,Yes,True,0.3272553849992619,random
+000000565941,Is there a wine glass in the image?,no,no,No,True,0.3278441599995858,random
+000000565941,Is there a dining table in the image?,yes,yes,Yes,True,0.3304010420006307,random
+000000565941,Is there a snowboard in the image?,no,no,No,True,0.3292203039991364,random
+000000329717,Is there a person in the image?,yes,yes,Yes,True,0.3286034290003954,random
+000000329717,Is there a tennis racket in the image?,no,no,No,True,0.33218558699991263,random
+000000329717,Is there a suitcase in the image?,yes,yes,Yes,True,0.3380534699999771,random
+000000329717,Is there a bird in the image?,no,no,No,True,0.341042080999614,random
+000000329717,Is there a handbag in the image?,no,yes,Yes,False,0.3365007920001517,random
+000000329717,Is there a toaster in the image?,no,no,No,True,0.33572326400008023,random
+000000236865,Is there a person in the image?,yes,yes,Yes,True,0.5013745659998676,random
+000000236865,Is there a skis in the image?,no,no,No,True,0.5017735179999363,random
+000000236865,Is there an orange in the image?,no,no,No,True,0.48657654100043146,random
+000000236865,Is there a toaster in the image?,no,no,No,True,0.4906237309996868,random
+000000236865,Is there a car in the image?,yes,no,No,False,0.4890570099996694,random
+000000236865,Is there a refrigerator in the image?,no,no,No,True,0.5072580500000186,random
+000000311327,Is there a person in the image?,yes,yes,Yes,True,0.49022435799997766,random
+000000311327,Is there a book in the image?,no,no,No,True,0.49895328399998107,random
+000000311327,Is there a boat in the image?,yes,yes,Yes.,True,0.5633959920005509,random
+000000311327,Is there a refrigerator in the image?,no,no,No,True,0.4986019699999815,random
+000000311327,Is there a handbag in the image?,yes,no,No,False,0.4875590749998082,random
+000000311327,Is there a car in the image?,no,no,No,True,0.4926025409995418,random
+000000564336,Is there a person in the image?,yes,yes,Yes,True,0.38794676900033664,random
+000000564336,Is there a baseball glove in the image?,no,no,No,True,0.39233730400064815,random
+000000564336,Is there a skateboard in the image?,no,no,No,True,0.39452493699991464,random
+000000564336,Is there a laptop in the image?,yes,yes,Yes,True,0.39008691900016856,random
+000000131018,Is there a person in the image?,yes,yes,Yes,True,0.4893669260000024,random
+000000131018,Is there a clock in the image?,no,no,No,True,0.48077497699978267,random
+000000131018,Is there a bowl in the image?,yes,yes,Yes,True,0.4906094210000447,random
+000000131018,Is there a scissors in the image?,yes,yes,Yes,True,0.48880284400001983,random
+000000131018,Is there a giraffe in the image?,no,no,No,True,0.4973356350001268,random
+000000207205,Is there an apple in the image?,no,no,No,True,0.4895975969993742,random
+000000207205,Is there a broccoli in the image?,yes,yes,Yes.,True,0.5519435720007095,random
+000000207205,Is there a traffic light in the image?,no,no,No,True,0.49036195300050167,random
+000000207205,Is there a carrot in the image?,no,no,No,True,0.4863689740004702,random
+000000207205,Is there a kite in the image?,no,no,No,True,0.48432396499993047,random
+000000498374,Is there a sink in the image?,yes,yes,Yes.,True,0.5475158609997379,random
+000000498374,Is there a broccoli in the image?,no,no,No,True,0.4828279270004714,random
+000000498374,Is there a person in the image?,yes,yes,Yes,True,0.4792770939993716,random
+000000498374,Is there a remote in the image?,no,no,no,True,0.4769763480007896,random
+000000498374,Is there a toilet in the image?,yes,yes,Yes.,True,0.5383608849997472,random
+000000498374,Is there a fire hydrant in the image?,no,no,No,True,0.4798034450004707,random
+000000190185,Is there a dog in the image?,no,no,No,True,0.47996842300017306,random
+000000190185,Is there a donut in the image?,no,yes,Yes,False,0.48339832199962984,random
+000000190185,Is there a bowl in the image?,no,yes,Yes,False,0.48123338999994303,random
+000000190185,Is there a sink in the image?,no,no,No,True,0.4879106199996386,random
+000000190185,Is there a book in the image?,no,no,No,True,0.47589042900017375,random
+000000520524,Is there a motorcycle in the image?,yes,yes,Yes,True,0.47967053899992607,random
+000000520524,Is there a sandwich in the image?,no,no,No,True,0.4780319259998578,random
+000000520524,Is there a bicycle in the image?,yes,yes,Yes,True,0.5036536480001814,random
+000000520524,Is there a remote in the image?,no,no,No,True,0.47875253399979556,random
+000000520524,Is there a car in the image?,yes,no,No,False,0.4891418830002294,random
+000000520524,Is there a scissors in the image?,no,no,No,True,0.47223968299931585,random
+000000387098,Is there a spoon in the image?,yes,no,No,False,0.4765127999999095,random
+000000387098,Is there a sports ball in the image?,no,no,No,True,0.47974193600020953,random
+000000387098,Is there a laptop in the image?,yes,yes,Yes.,True,0.556226298999718,random
+000000387098,Is there a snowboard in the image?,no,no,No,True,0.4715955430001486,random
+000000387098,Is there a traffic light in the image?,no,no,No,True,0.4764292670006398,random
+000000069196,Is there a backpack in the image?,yes,yes,Yes,True,0.4948999140005981,random
+000000069196,Is there a bus in the image?,no,no,No,True,0.494243789000393,random
+000000069196,Is there a person in the image?,yes,yes,Yes,True,0.4892347699997117,random
+000000069196,Is there a bench in the image?,no,no,No,True,0.49114120900048874,random
+000000069196,Is there an airplane in the image?,yes,yes,Yes,True,0.48846837200017035,random
+000000069196,Is there a potted plant in the image?,no,no,No,True,0.49480614099957165,random
+000000032610,Is there a backpack in the image?,yes,yes,Yes.,True,0.46909459099970263,random
+000000032610,Is there a carrot in the image?,no,no,No,True,0.40526087499983987,random
+000000032610,Is there a baseball glove in the image?,no,no,No,True,0.40512622100050066,random
+000000032610,Is there a laptop in the image?,yes,yes,Yes,True,0.4080751030005558,random
+000000032610,Is there a knife in the image?,no,no,No,True,0.4051084829998217,random
+000000288042,Is there a scissors in the image?,no,no,No,True,0.47508256299988716,random
+000000288042,Is there a person in the image?,yes,yes,Yes,True,0.4797177959999317,random
+000000288042,Is there a pizza in the image?,no,no,No,True,0.4694520220000413,random
+000000288042,Is there an umbrella in the image?,yes,yes,Yes,True,0.4750389290002204,random
+000000288042,Is there a train in the image?,no,no,No,True,0.4704740910001419,random
+000000467176,Is there a tv in the image?,yes,yes,Yes,True,0.40695087899985083,random
+000000467176,Is there a donut in the image?,no,no,No,True,0.40911906300061673,random
+000000467176,Is there a person in the image?,yes,yes,Yes,True,0.407107024000652,random
+000000467176,Is there a sink in the image?,no,no,No,True,0.40747451500010357,random
+000000467176,Is there a couch in the image?,yes,yes,Yes,True,0.40721969200058084,random
+000000467176,Is there a zebra in the image?,no,no,No,True,0.4086212729998806,random
+000000551908,Is there a broccoli in the image?,yes,yes,Yes,True,0.4151145499999984,random
+000000551908,Is there a truck in the image?,no,no,No,True,0.4109356069993737,random
+000000551908,Is there a carrot in the image?,yes,yes,Yes,True,0.4054751080002461,random
+000000551908,Is there a bus in the image?,no,no,No,True,0.41561372199976176,random
+000000551908,Is there a giraffe in the image?,no,no,No,True,0.40729614900010347,random
+000000327771,Is there a truck in the image?,no,no,No,True,0.47222426400003314,random
+000000327771,Is there a bed in the image?,yes,yes,Yes.,True,0.5400738609996552,random
+000000327771,Is there an apple in the image?,no,no,No,True,0.48234397700070986,random
+000000327771,Is there a dining table in the image?,no,no,No,True,0.4789602079999895,random
+000000327771,Is there a cow in the image?,no,no,No,True,0.4699393939999936,random
+000000189694,Is there a sink in the image?,yes,no,No,False,0.47502392399928794,random
+000000189694,Is there a bird in the image?,no,no,No,True,0.47683614600009605,random
+000000189694,Is there a person in the image?,yes,yes,Yes,True,0.4693976329999714,random
+000000189694,Is there a banana in the image?,no,no,No,True,0.47852303400031815,random
+000000189694,Is there a bottle in the image?,yes,yes,Yes,True,0.47157843700006197,random
+000000189694,Is there a bear in the image?,no,no,No,True,0.4780763089993343,random
+000000506178,Is there a person in the image?,yes,yes,Yes,True,0.3224784819994966,random
+000000506178,Is there a baseball glove in the image?,no,no,No,True,0.31926055799976893,random
+000000506178,Is there a bed in the image?,yes,yes,yes,True,0.3191501370001788,random
+000000506178,Is there a bus in the image?,no,no,No,True,0.3281101820002732,random
+000000506178,Is there a remote in the image?,yes,yes,Yes,True,0.31834868599980837,random
+000000506178,Is there a chair in the image?,no,no,no,True,0.3290631849995407,random
+000000249720,Is there a backpack in the image?,yes,yes,Yes,True,0.29656388200055517,random
+000000249720,Is there a bear in the image?,no,no,No,True,0.3062157129998013,random
+000000249720,Is there a person in the image?,yes,yes,Yes,True,0.2967107260001285,random
+000000249720,Is there a wine glass in the image?,no,no,No,True,0.2951213380001718,random
+000000249720,Is there a zebra in the image?,no,no,No,True,0.2891658069993355,random
+000000227204,Is there a banana in the image?,yes,yes,yes,True,0.48463092200017854,random
+000000227204,Is there an airplane in the image?,no,no,No,True,0.46872234500006016,random
+000000227204,Is there a person in the image?,yes,yes,Yes,True,0.4732440050001969,random
+000000227204,Is there a spoon in the image?,yes,yes,yes,True,0.4715946910000639,random
+000000227204,Is there a cat in the image?,no,no,No,True,0.4747972539998955,random
+000000574790,Is there a traffic light in the image?,yes,yes,Yes,True,0.40330279000045266,random
+000000574790,Is there a teddy bear in the image?,no,no,No,True,0.4081687329999113,random
+000000574790,Is there a truck in the image?,yes,yes,Yes,True,0.41446579199964617,random
+000000574790,Is there a snowboard in the image?,no,no,No,True,0.41181859300013457,random
+000000574790,Is there a car in the image?,yes,yes,Yes,True,0.42168600900004094,random
+000000574790,Is there a baseball glove in the image?,no,no,No,True,0.407343290999961,random
+000000498100,Is there a vase in the image?,yes,yes,Yes,True,0.5066718000007313,random
+000000498100,Is there a mouse in the image?,no,no,No,True,0.5114604940008576,random
+000000498100,Is there a skis in the image?,no,no,No,True,0.513707780999539,random
+000000498100,Is there a dining table in the image?,no,yes,Yes,False,0.5151869309993344,random
+000000498100,Is there a bear in the image?,no,no,No,True,0.5072415910008203,random
+000000049473,Is there a vase in the image?,yes,yes,Yes,True,0.29622177300007024,random
+000000049473,Is there a remote in the image?,no,no,No,True,0.2962229930008107,random
+000000049473,Is there a bed in the image?,no,no,No,True,0.2847025909995864,random
+000000049473,Is there a bus in the image?,no,no,No,True,0.28569113799949264,random
+000000303652,Is there a refrigerator in the image?,no,no,No,True,0.47956081699976494,random
+000000303652,Is there a dining table in the image?,yes,yes,Yes,True,0.4760686919998989,random
+000000303652,Is there a chair in the image?,yes,yes,Yes,True,0.4752473189992088,random
+000000303652,Is there a teddy bear in the image?,no,no,No,True,0.47578797599999234,random
+000000201148,Is there a traffic light in the image?,yes,yes,Yes,True,0.3772784800003137,random
+000000201148,Is there a bicycle in the image?,no,no,No,True,0.37869559199953073,random
+000000201148,Is there a person in the image?,yes,no,No,False,0.38117278100071417,random
+000000201148,Is there a sports ball in the image?,no,no,No,True,0.38241464200018527,random
+000000201148,Is there a train in the image?,yes,yes,Yes,True,0.37766669699976774,random
+000000201148,Is there a baseball glove in the image?,no,no,No,True,0.38016825599970616,random
+000000355342,Is there a person in the image?,yes,yes,Yes,True,0.4086159190001126,random
+000000355342,Is there a surfboard in the image?,no,no,No,True,0.40788720000000467,random
+000000355342,Is there an orange in the image?,yes,no,No,False,0.41215330800059746,random
+000000355342,Is there a stop sign in the image?,no,no,No,True,0.4083351350000157,random
+000000355342,Is there an umbrella in the image?,yes,yes,Yes,True,0.4083730900001683,random
+000000355342,Is there a cat in the image?,no,no,No,True,0.41428588000053423,random
+000000333237,Is there a chair in the image?,yes,yes,Yes,True,0.4148467539998819,random
+000000333237,Is there a bird in the image?,no,no,No,True,0.41374975300004735,random
+000000333237,Is there a bed in the image?,yes,yes,Yes.,True,0.4786211230002664,random
+000000333237,Is there a tie in the image?,no,no,No,True,0.4135310400006347,random
+000000333237,Is there a dining table in the image?,no,yes,Yes,False,0.41384567200020683,random
+000000333237,Is there a baseball glove in the image?,no,no,No,True,0.41964199199992436,random
+000000025972,Is there a cell phone in the image?,no,no,No,True,0.4832290919994193,random
+000000025972,Is there a couch in the image?,yes,yes,Yes.,True,0.5469964200001414,random
+000000025972,Is there a sheep in the image?,no,no,No,True,0.4743399379995026,random
+000000025972,Is there a car in the image?,yes,no,No,False,0.47796769100023084,random
+000000025972,Is there a keyboard in the image?,no,no,No,True,0.48145526199914457,random
+000000037900,Is there a banana in the image?,no,no,No,True,0.4163295799999105,random
+000000037900,Is there a cake in the image?,no,no,No,True,0.4131709299999784,random
+000000037900,Is there a knife in the image?,yes,yes,Yes,True,0.40962508599932335,random
+000000037900,Is there a vase in the image?,no,no,No,True,0.41235917800077004,random
+000000534516,Is there a traffic light in the image?,yes,yes,Yes,True,0.409476924000046,random
+000000534516,Is there a bench in the image?,no,no,No,True,0.40792039799998747,random
+000000534516,Is there a person in the image?,yes,yes,Yes,True,0.41029421200073557,random
+000000534516,Is there a bicycle in the image?,no,no,No,True,0.415374860999691,random
+000000534516,Is there a tie in the image?,yes,yes,Yes,True,0.4152318659998855,random
+000000534516,Is there a dining table in the image?,no,no,No,True,0.41057971000009275,random
+000000123017,Is there a scissors in the image?,no,no,No,True,0.47698930600017775,random
+000000123017,Is there an elephant in the image?,no,no,No,True,0.47879423999984283,random
+000000123017,Is there a chair in the image?,yes,yes,Yes,True,0.4807300069996927,random
+000000123017,Is there a toilet in the image?,no,no,No,True,0.48307112699967547,random
+000000316237,Is there a person in the image?,yes,yes,Yes,True,0.4931086119995598,random
+000000316237,Is there a chair in the image?,no,no,No,True,0.49797152999963146,random
+000000316237,Is there a handbag in the image?,yes,yes,Yes,True,0.5020478140004343,random
+000000316237,Is there a wine glass in the image?,no,no,No,True,0.5032863910000742,random
+000000316237,Is there a cell phone in the image?,yes,yes,Yes,True,0.4933220809998602,random
+000000316237,Is there a spoon in the image?,no,no,No,True,0.4900816320005106,random
+000000407386,Is there a tv in the image?,no,no,No,True,0.48102091400050995,random
+000000407386,Is there a bear in the image?,no,no,No,True,0.47714970099968923,random
+000000407386,Is there a laptop in the image?,yes,yes,Yes.,True,0.5556703809997998,random
+000000407386,Is there a scissors in the image?,no,no,No,True,0.48002666699994734,random
+000000407386,Is there a dining table in the image?,no,no,No,True,0.48724631599998247,random
+000000407386,Is there a toilet in the image?,no,no,No,True,0.48035713999979635,random
+000000377352,Is there a person in the image?,yes,yes,Yes,True,0.41430839199983893,random
+000000377352,Is there a knife in the image?,no,no,No,True,0.41788828300013847,random
+000000377352,Is there a motorcycle in the image?,yes,yes,Yes,True,0.41671469199991407,random
+000000377352,Is there a suitcase in the image?,no,no,No,True,0.4178608969996276,random
+000000377352,Is there a car in the image?,yes,no,No,False,0.40955387900066853,random
+000000377352,Is there a donut in the image?,no,no,No,True,0.4162051490002341,random
+000000463640,Is there a person in the image?,yes,yes,Yes,True,0.5953972960005558,random
+000000463640,Is there an airplane in the image?,no,no,No,True,0.5913069300004281,random
+000000463640,Is there a wine glass in the image?,yes,no,No,False,0.5934146859999601,random
+000000463640,Is there a skis in the image?,no,no,No,True,0.5935838879995572,random
+000000463640,Is there a dining table in the image?,yes,yes,Yes,True,0.5898917049999,random
+000000463640,Is there a tv in the image?,no,no,No,True,0.5903706569997667,random
+000000472143,Is there a bird in the image?,yes,no,No,False,0.621552513000097,random
+000000472143,Is there a baseball glove in the image?,no,no,No,True,0.6202450410000893,random
+000000472143,Is there a person in the image?,yes,yes,Yes,True,0.6170911879999039,random
+000000472143,Is there a frisbee in the image?,no,no,No,True,0.6202565289995619,random
+000000281028,Is there a truck in the image?,no,no,No,True,0.4802256799994211,random
+000000281028,Is there a person in the image?,no,no,No,True,0.48694423399956577,random
+000000281028,Is there a wine glass in the image?,no,no,No,True,0.47842708100051823,random
+000000281028,Is there a train in the image?,yes,yes,Yes,True,0.49275954099994124,random
+000000281028,Is there a book in the image?,no,no,No,True,0.4829390430004423,random
+000000482829,Is there a person in the image?,yes,yes,Yes,True,0.4128612510003222,random
+000000482829,Is there a suitcase in the image?,no,no,No,True,0.4114013630005502,random
+000000482829,Is there a sports ball in the image?,yes,yes,Yes,True,0.41620240900010685,random
+000000482829,Is there a skis in the image?,no,no,No,True,0.41380047100028605,random
+000000482829,Is there a tennis racket in the image?,yes,yes,Yes.,True,0.48911768899961316,random
+000000482829,Is there a book in the image?,no,no,No,True,0.41105751000031887,random
+000000097994,Is there a clock in the image?,yes,yes,Yes,True,0.4106243630003519,random
+000000097994,Is there a toothbrush in the image?,no,no,No,True,0.4205570849999276,random
+000000097994,Is there a laptop in the image?,yes,yes,Yes,True,0.414171952000288,random
+000000097994,Is there a kite in the image?,no,no,No,True,0.4163743750004869,random
+000000097994,Is there a dining table in the image?,no,no,No,True,0.4130721330002416,random
+000000097994,Is there a skateboard in the image?,no,no,No,True,0.41466938499979733,random
+000000348524,Is there a snowboard in the image?,yes,yes,Yes,True,0.4247111370004859,random
+000000348524,Is there a bottle in the image?,no,no,No,True,0.41523386300013954,random
+000000348524,Is there a person in the image?,yes,yes,Yes,True,0.42152729200006434,random
+000000348524,Is there a cat in the image?,no,no,No,True,0.4153395070006809,random
+000000348524,Is there a skis in the image?,yes,no,No,False,0.41318161500021233,random
+000000348524,Is there a backpack in the image?,no,no,no,True,0.4279761170000711,random
+000000301575,Is there a tv in the image?,yes,yes,Yes.,True,0.5946507369999381,random
+000000301575,Is there a toilet in the image?,no,no,No,True,0.5287265640008627,random
+000000301575,Is there a person in the image?,yes,yes,Yes,True,0.519068051999966,random
+000000301575,Is there a toothbrush in the image?,no,no,No,True,0.5197935510004754,random
+000000301575,Is there a couch in the image?,yes,yes,Yes,True,0.5199721219996718,random
+000000301575,Is there a cow in the image?,no,no,No,True,0.5203426699999909,random
+000000343401,Is there a pizza in the image?,no,no,No,True,0.3256291859997873,random
+000000343401,Is there a dog in the image?,yes,yes,Yes,True,0.32791073200041865,random
+000000343401,Is there a sink in the image?,no,no,No,True,0.32801290200040967,random
+000000343401,Is there a person in the image?,yes,yes,Yes,True,0.3237679269996079,random
+000000343401,Is there a stop sign in the image?,no,no,No,True,0.3262447790002625,random
+000000281766,Is there a person in the image?,yes,yes,Yes,True,0.41873263599973143,random
+000000281766,Is there an umbrella in the image?,no,no,No,True,0.4153767100006007,random
+000000281766,Is there a bicycle in the image?,yes,yes,Yes.,True,0.49142564600060723,random
+000000281766,Is there a train in the image?,no,no,No,True,0.4141363429998819,random
+000000281766,Is there a handbag in the image?,yes,yes,Yes,True,0.41614670400031173,random
+000000281766,Is there a bed in the image?,no,no,No,True,0.4132272400001966,random
+000000312406,Is there a banana in the image?,yes,yes,Yes,True,0.47812209199946665,random
+000000312406,Is there a snowboard in the image?,no,no,No,True,0.4786408170002687,random
+000000312406,Is there a stop sign in the image?,no,no,No,True,0.47715326299930894,random
+000000312406,Is there a cup in the image?,yes,yes,Yes,True,0.48877634600012243,random
+000000312406,Is there a tv in the image?,no,no,No,True,0.4794017980002536,random
+000000418680,Is there a snowboard in the image?,yes,yes,Yes,True,0.48020223599996825,random
+000000418680,Is there a cell phone in the image?,no,no,no,True,0.4829511480002111,random
+000000418680,Is there a person in the image?,yes,yes,Yes,True,0.49038994900001853,random
+000000418680,Is there a boat in the image?,no,no,No,True,0.48075143299956835,random
+000000418680,Is there a skis in the image?,yes,no,No,False,0.48169815900018875,random
+000000418680,Is there a mouse in the image?,no,no,No,True,0.47996345999945333,random
+000000044801,Is there a traffic light in the image?,yes,yes,Yes,True,0.29109290900032647,random
+000000044801,Is there a remote in the image?,no,no,No,True,0.2948305590007294,random
+000000044801,Is there a person in the image?,yes,yes,Yes,True,0.2925126919999457,random
+000000044801,Is there a giraffe in the image?,no,no,No,True,0.2885427359997266,random
+000000044801,Is there a banana in the image?,no,no,No,True,0.2868074850002813,random
+000000452297,Is there a banana in the image?,yes,yes,Yes,True,0.408701426999869,random
+000000452297,Is there a broccoli in the image?,no,no,No,True,0.40978779699980805,random
+000000452297,Is there a spoon in the image?,yes,yes,Yes.,True,0.4784409069998219,random
+000000452297,Is there an orange in the image?,no,no,No,True,0.4064656989994546,random
+000000452297,Is there a backpack in the image?,no,no,No,True,0.4046401859995967,random
+000000172648,Is there a truck in the image?,yes,yes,Yes,True,0.47123243199985154,random
+000000172648,Is there a skateboard in the image?,no,no,No,True,0.4809698119997847,random
+000000172648,Is there a car in the image?,yes,no,No,False,0.481409879000239,random
+000000172648,Is there a bird in the image?,no,no,No,True,0.4789015800006382,random
+000000172648,Is there a person in the image?,yes,yes,Yes,True,0.48084300699974847,random
+000000172648,Is there a dining table in the image?,no,no,No,True,0.48837185299998964,random
+000000308907,Is there a traffic light in the image?,yes,yes,Yes,True,0.2952566090007167,random
+000000308907,Is there a stop sign in the image?,no,yes,Yes,False,0.291010460000507,random
+000000308907,Is there a person in the image?,yes,no,No,False,0.29264096899987635,random
+000000308907,Is there a parking meter in the image?,no,no,No,True,0.2927455889994235,random
+000000308907,Is there a bicycle in the image?,yes,yes,Yes,True,0.3079746499997782,random
+000000308907,Is there a suitcase in the image?,no,no,No,True,0.2926246089991764,random
+000000454607,Is there a book in the image?,yes,yes,Yes,True,0.4807819349998681,random
+000000454607,Is there a kite in the image?,no,no,No,True,0.47923866900055145,random
+000000454607,Is there a person in the image?,yes,yes,Yes,True,0.4803940669999065,random
+000000454607,Is there a dining table in the image?,no,no,No,True,0.4740736459998516,random
+000000454607,Is there a cell phone in the image?,yes,yes,Yes.,True,0.5489691760003552,random
+000000454607,Is there a handbag in the image?,no,no,No,True,0.4722633109995513,random
+000000348469,Is there a bird in the image?,yes,no,No,False,0.4014300499993624,random
+000000348469,Is there a skis in the image?,no,no,No,True,0.40840975099945354,random
+000000348469,Is there a person in the image?,yes,yes,Yes,True,0.40687546899971494,random
+000000348469,Is there a sheep in the image?,no,no,No,True,0.4084907469996324,random
+000000348469,Is there a baseball bat in the image?,yes,yes,Yes.,True,0.4727674420000767,random
+000000348469,Is there a frisbee in the image?,no,no,No,True,0.41083792700010235,random
+000000114941,Is there a person in the image?,yes,no,No,False,0.4158802199999627,random
+000000114941,Is there a potted plant in the image?,no,no,No,True,0.4125580539994189,random
+000000114941,Is there a train in the image?,yes,yes,Yes,True,0.4087056719999964,random
+000000114941,Is there a bear in the image?,no,no,No,True,0.4134997110004406,random
+000000114941,Is there a tie in the image?,no,no,No,True,0.4081481230005011,random
+000000382617,Is there a microwave in the image?,no,no,No,True,0.4703827249995811,random
+000000382617,Is there a person in the image?,no,no,No,True,0.47279003099993133,random
+000000382617,Is there a book in the image?,yes,yes,Yes,True,0.4745276470002864,random
+000000382617,Is there a giraffe in the image?,no,no,No,True,0.48302284400051576,random
+000000467887,Is there a person in the image?,yes,yes,Yes,True,0.4789534609999464,random
+000000467887,Is there a zebra in the image?,no,no,No,True,0.4785003869992579,random
+000000467887,Is there a stop sign in the image?,no,no,No,True,0.47829261800052336,random
+000000467887,Is there a couch in the image?,yes,yes,Yes,True,0.47431530699941504,random
+000000467887,Is there a cat in the image?,no,no,No,True,0.4741067999993902,random
+000000120792,Is there a person in the image?,yes,yes,Yes,True,0.4659512829994128,random
+000000120792,Is there a microwave in the image?,no,no,No,True,0.4773093420008081,random
+000000120792,Is there a remote in the image?,yes,yes,Yes,True,0.4693142510004691,random
+000000120792,Is there a potted plant in the image?,no,no,No,True,0.4824040690000402,random
+000000120792,Is there a chair in the image?,yes,yes,Yes,True,0.4756280460005655,random
+000000120792,Is there a surfboard in the image?,no,no,No,True,0.4741636290000315,random
+000000125524,Is there a person in the image?,yes,yes,yes,True,0.4047606479998649,random
+000000125524,Is there a refrigerator in the image?,no,no,No,True,0.4037006009994002,random
+000000125524,Is there a bus in the image?,yes,yes,Yes,True,0.4053856000000451,random
+000000125524,Is there a zebra in the image?,no,no,No,True,0.40604487800010247,random
+000000125524,Is there a fire hydrant in the image?,yes,yes,Yes.,True,0.46451562800029933,random
+000000125524,Is there a tv in the image?,no,no,No,True,0.40073069900063274,random
+000000155131,Is there a person in the image?,yes,yes,Yes,True,0.47392041700004484,random
+000000155131,Is there a spoon in the image?,no,no,No,True,0.4737094130005062,random
+000000155131,Is there a sports ball in the image?,yes,yes,Yes,True,0.47372816799997963,random
+000000155131,Is there a toothbrush in the image?,no,no,No,True,0.4834534919991711,random
+000000155131,Is there a tennis racket in the image?,yes,yes,Yes,True,0.46881626799950027,random
+000000155131,Is there a hot dog in the image?,no,no,No,True,0.4783846029995402,random
+000000501652,Is there a couch in the image?,no,no,No,True,0.47448357999928703,random
+000000501652,Is there a person in the image?,yes,yes,Yes,True,0.4878529490006258,random
+000000501652,Is there a keyboard in the image?,no,no,No,True,0.47498237899981177,random
+000000501652,Is there a car in the image?,yes,yes,Yes,True,0.47800879799979157,random
+000000501652,Is there a clock in the image?,no,no,No,True,0.4742257400002927,random
+000000233521,Is there a person in the image?,yes,yes,Yes,True,0.4079816519997621,random
+000000233521,Is there a baseball glove in the image?,no,no,No,True,0.4038373710000087,random
+000000233521,Is there a couch in the image?,yes,yes,Yes,True,0.4177578959997845,random
+000000233521,Is there a sheep in the image?,no,no,No,True,0.41511312700004055,random
+000000233521,Is there a bottle in the image?,yes,yes,Yes,True,0.4109601970003496,random
+000000233521,Is there a tie in the image?,no,no,No,True,0.40687535799952457,random
+000000068418,Is there a tv in the image?,no,no,No,True,0.47651446600048075,random
+000000068418,Is there a parking meter in the image?,no,no,No,True,0.4750472739997349,random
+000000068418,Is there a skateboard in the image?,no,no,No,True,0.47635427699970023,random
+000000068418,Is there a laptop in the image?,no,yes,Yes,False,0.4779376060005234,random
+000000068418,Is there an umbrella in the image?,no,no,No,True,0.47694369000055303,random
+000000021327,Is there a tv in the image?,yes,yes,Yes,True,0.40718604100038647,random
+000000021327,Is there a traffic light in the image?,no,no,No,True,0.4130584229997112,random
+000000021327,Is there a pizza in the image?,yes,yes,Yes,True,0.43801265499951114,random
+000000021327,Is there a banana in the image?,no,no,No,True,0.41470197699982236,random
+000000021327,Is there a dining table in the image?,yes,yes,Yes,True,0.4071956429997954,random
+000000021327,Is there a boat in the image?,no,no,No,True,0.41139667199968244,random
+000000553992,Is there a tv in the image?,yes,yes,Yes,True,0.3158140330006063,random
+000000553992,Is there a book in the image?,no,no,No,True,0.3225144170000931,random
+000000553992,Is there a person in the image?,yes,yes,Yes,True,0.3274386900002355,random
+000000553992,Is there a mouse in the image?,no,no,No,True,0.32071104100032244,random
+000000553992,Is there a remote in the image?,yes,yes,Yes,True,0.326112096999168,random
+000000553992,Is there a motorcycle in the image?,no,no,No,True,0.3208507199997257,random
+000000044993,Is there a banana in the image?,yes,yes,Yes,True,0.40598164399943926,random
+000000044993,Is there an umbrella in the image?,no,no,No,True,0.41544396099925507,random
+000000044993,Is there a spoon in the image?,no,no,No,True,0.418667343999914,random
+000000044993,Is there a pizza in the image?,no,no,No,True,0.4095507620004355,random
+000000337502,Is there a pizza in the image?,yes,yes,Yes.,True,0.48007427799984725,random
+000000337502,Is there a motorcycle in the image?,no,no,No,True,0.40428505599993514,random
+000000337502,Is there a broccoli in the image?,yes,no,No,False,0.4072054139996908,random
+000000337502,Is there a baseball glove in the image?,no,no,No,True,0.40946859900031995,random
+000000337502,Is there an oven in the image?,yes,yes,Yes.,True,0.479133374000412,random
+000000337502,Is there a sink in the image?,no,no,No,True,0.4104975500004002,random
+000000472375,Is there a dog in the image?,yes,yes,Yes.,True,0.6398485670006266,random
+000000472375,Is there a giraffe in the image?,no,no,No,True,0.5792150380002568,random
+000000472375,Is there a motorcycle in the image?,yes,yes,Yes,True,0.573926011000367,random
+000000472375,Is there a bowl in the image?,no,no,No,True,0.5749598619995595,random
+000000472375,Is there a cup in the image?,yes,yes,Yes,True,0.5700784720002048,random
+000000472375,Is there an oven in the image?,no,no,No,True,0.5745951540002352,random
+000000446651,Is there a person in the image?,yes,yes,Yes,True,0.4158952749994569,random
+000000446651,Is there a parking meter in the image?,no,no,No,True,0.408919165000043,random
+000000446651,Is there a motorcycle in the image?,yes,yes,Yes,True,0.41030783899987,random
+000000446651,Is there a snowboard in the image?,no,no,No,True,0.4155999790000351,random
+000000446651,Is there a car in the image?,yes,yes,Yes,True,0.41430847799983894,random
+000000446651,Is there a zebra in the image?,no,no,No,True,0.4179024980003305,random
+000000267684,Is there a backpack in the image?,yes,yes,Yes,True,0.47915825299969583,random
+000000267684,Is there a baseball bat in the image?,no,no,No,True,0.4904494069996872,random
+000000267684,Is there a person in the image?,yes,yes,Yes,True,0.4750449530001788,random
+000000267684,Is there a mouse in the image?,no,no,No,True,0.48209700799998245,random
+000000267684,Is there a skis in the image?,yes,yes,Yes,True,0.47687466899969877,random
+000000267684,Is there a carrot in the image?,no,no,No,True,0.4844109719997505,random
+000000149592,Is there a person in the image?,yes,yes,Yes,True,0.4138225850001618,random
+000000149592,Is there a bench in the image?,yes,yes,Yes,True,0.4148348429998805,random
+000000149592,Is there a toilet in the image?,no,no,No,True,0.4092388190001657,random
+000000149592,Is there a boat in the image?,yes,no,No,False,0.40772819700032414,random
+000000149592,Is there a bed in the image?,no,no,No,True,0.4145596199996362,random
+000000458325,Is there a car in the image?,yes,yes,Yes,True,0.41336843899989617,random
+000000458325,Is there a chair in the image?,no,no,No,True,0.446487392000563,random
+000000458325,Is there a traffic light in the image?,yes,yes,Yes,True,0.4097891310002524,random
+000000458325,Is there a surfboard in the image?,no,no,No,True,0.4153874439998617,random
+000000458325,Is there a person in the image?,yes,yes,Yes,True,0.4123055119998753,random
+000000458325,Is there a fork in the image?,no,no,No,True,0.41215178799939167,random
+000000378751,Is there a tv in the image?,no,no,no,True,0.4815093179995529,random
+000000378751,Is there a hot dog in the image?,no,no,No,True,0.48333034200004477,random
+000000378751,Is there a couch in the image?,yes,yes,Yes,True,0.4769537289994332,random
+000000378751,Is there a sheep in the image?,no,no,No,True,0.47830019499997434,random
+000000378751,Is there a remote in the image?,yes,yes,Yes,True,0.4784303890000956,random
+000000378751,Is there a wine glass in the image?,no,no,No,True,0.47629615099958755,random
+000000052689,Is there a person in the image?,yes,yes,Yes,True,0.41543232399999397,random
+000000052689,Is there a knife in the image?,no,no,No,True,0.415896814000007,random
+000000052689,Is there an umbrella in the image?,no,no,No,True,0.4216807370003153,random
+000000052689,Is there a skis in the image?,yes,yes,Yes,True,0.41109475400025985,random
+000000052689,Is there a laptop in the image?,no,no,No,True,0.409475145000215,random
+000000516601,Is there a snowboard in the image?,yes,no,No,False,0.3758228719998442,random
+000000516601,Is there a vase in the image?,no,no,No,True,0.38102027399963845,random
+000000516601,Is there a person in the image?,yes,yes,Yes,True,0.3836813929992786,random
+000000516601,Is there a tennis racket in the image?,no,no,No,True,0.39317498299988074,random
+000000516601,Is there a skis in the image?,yes,yes,Yes,True,0.38595941200037487,random
+000000516601,Is there a bottle in the image?,no,no,No,True,0.38273646300058317,random
+000000562155,Is there a person in the image?,yes,yes,Yes,True,0.4831312730002537,random
+000000562155,Is there a suitcase in the image?,no,no,No,True,0.48082803300076193,random
+000000562155,Is there a car in the image?,yes,yes,Yes,True,0.47715109399996436,random
+000000562155,Is there a sports ball in the image?,no,no,No,True,0.480394719999822,random
+000000562155,Is there a tie in the image?,yes,yes,Yes.,True,0.5440150000003996,random
+000000562155,Is there a bed in the image?,no,no,No,True,0.48055828500037023,random
+000000521643,Is there a bed in the image?,no,no,No,True,0.4949259519999032,random
+000000521643,Is there a bottle in the image?,no,yes,Yes,False,0.4899245749993497,random
+000000521643,Is there a tie in the image?,no,no,No,True,0.497024797999984,random
+000000521643,Is there a dining table in the image?,no,yes,Yes,False,0.4987643610002124,random
+000000521643,Is there a cat in the image?,no,no,No,True,0.4923577039999145,random
+000000514292,Is there a book in the image?,no,no,No,True,0.47517925600004673,random
+000000514292,Is there a car in the image?,no,no,No,True,0.47408963599991694,random
+000000514292,Is there a teddy bear in the image?,yes,yes,Yes.,True,0.5479786850000892,random
+000000514292,Is there a bus in the image?,no,no,No,True,0.4810688919997119,random
+000000514292,Is there a truck in the image?,no,no,No,True,0.4744059019994893,random
+000000191964,Is there a keyboard in the image?,yes,yes,Yes.,True,0.40526744999988296,random
+000000191964,Is there a fire hydrant in the image?,no,no,No,True,0.32428658499975427,random
+000000191964,Is there an orange in the image?,no,no,No,True,0.32510445499974594,random
+000000191964,Is there a person in the image?,no,no,No,True,0.32565445299951534,random
+000000191964,Is there a cat in the image?,yes,yes,Yes.,True,0.3891140670002642,random
+000000191964,Is there a truck in the image?,no,no,No,True,0.328177897000387,random
+000000265472,Is there a banana in the image?,yes,yes,Yes,True,0.3321961060000831,random
+000000265472,Is there a potted plant in the image?,no,no,No,True,0.32196362300055625,random
+000000265472,Is there a bowl in the image?,no,no,No,True,0.32462905000011233,random
+000000265472,Is there a kite in the image?,no,no,No,True,0.3305252069994822,random
+000000265472,Is there an orange in the image?,no,no,No,True,0.3227310739994209,random
+000000265472,Is there a spoon in the image?,no,no,No,True,0.3298766460002298,random
+000000550514,Is there a stop sign in the image?,no,no,No,True,0.4782885989998249,random
+000000550514,Is there a backpack in the image?,yes,no,no,False,0.4791836759995931,random
+000000550514,Is there a potted plant in the image?,no,no,No,True,0.4831665580004483,random
+000000550514,Is there a person in the image?,yes,yes,Yes,True,0.4789577149995239,random
+000000550514,Is there a fire hydrant in the image?,no,no,No,True,0.4761860759999763,random
+000000233426,Is there a vase in the image?,yes,yes,Yes,True,0.40317704400058574,random
+000000233426,Is there an orange in the image?,no,no,no,True,0.40659193099963886,random
+000000233426,Is there a potted plant in the image?,no,yes,Yes,False,0.41204574499988667,random
+000000233426,Is there a bowl in the image?,no,no,No,True,0.409798676999344,random
+000000233426,Is there a dining table in the image?,no,no,No,True,0.4079041770000913,random
+000000233426,Is there a surfboard in the image?,no,no,No,True,0.412663347000489,random
+000000372817,Is there a person in the image?,yes,yes,Yes,True,0.4030123030006507,random
+000000372817,Is there an oven in the image?,no,no,No,True,0.40719305999937205,random
+000000372817,Is there a car in the image?,yes,yes,Yes,True,0.411678411000139,random
+000000372817,Is there a giraffe in the image?,no,no,No,True,0.4102617899998222,random
+000000372817,Is there a handbag in the image?,yes,yes,Yes,True,0.41525787499995204,random
+000000372817,Is there a tv in the image?,no,no,No,True,0.41530364499976713,random
+000000079213,Is there a person in the image?,yes,yes,Yes,True,0.4769635829998151,random
+000000079213,Is there a parking meter in the image?,no,no,No,True,0.4845063270004175,random
+000000079213,Is there a couch in the image?,yes,yes,Yes,True,0.48148236900033226,random
+000000079213,Is there a car in the image?,no,no,No,True,0.4753145940003378,random
+000000079213,Is there a remote in the image?,yes,yes,yes,True,0.47398528099984105,random
+000000079213,Is there a train in the image?,no,no,No,True,0.47824953200051823,random
+000000434179,Is there a chair in the image?,yes,yes,Yes,True,0.4725379149995206,random
+000000434179,Is there a bicycle in the image?,no,no,No,True,0.4772491319999972,random
+000000434179,Is there a spoon in the image?,yes,yes,Yes,True,0.48244729900034145,random
+000000434179,Is there a refrigerator in the image?,no,no,No,True,0.4784984199995961,random
+000000434179,Is there a cup in the image?,yes,yes,Yes,True,0.47337440899991634,random
+000000434179,Is there an apple in the image?,no,no,No,True,0.4726945729998988,random
+000000008749,Is there a pizza in the image?,yes,yes,Yes.,True,0.4728416019997894,random
+000000008749,Is there a stop sign in the image?,no,no,No,True,0.4144510750002155,random
+000000008749,Is there a mouse in the image?,no,no,No,True,0.40651112600062334,random
+000000008749,Is there a dining table in the image?,yes,yes,Yes,True,0.4085541230006129,random
+000000008749,Is there a horse in the image?,no,no,No,True,0.40126752099968144,random
+000000235203,Is there a person in the image?,yes,yes,Yes,True,0.4721975559996281,random
+000000235203,Is there a vase in the image?,no,no,No,True,0.47150833799969405,random
+000000235203,Is there a truck in the image?,no,no,No,True,0.4765492690003157,random
+000000235203,Is there a surfboard in the image?,no,no,No,True,0.47075092799968843,random
+000000468997,Is there a baseball glove in the image?,yes,yes,Yes,True,0.5118991479994293,random
+000000468997,Is there a skateboard in the image?,no,no,No,True,0.4784322819996305,random
+000000468997,Is there a person in the image?,yes,yes,Yes,True,0.4843990480003413,random
+000000468997,Is there a giraffe in the image?,no,no,No,True,0.4759837290002906,random
+000000468997,Is there a bird in the image?,no,no,No,True,0.4794400390001101,random
+000000003845,Is there a spoon in the image?,yes,no,No,False,0.3244170950001717,random
+000000003845,Is there a potted plant in the image?,no,no,No,True,0.3199754690003829,random
+000000003845,Is there a broccoli in the image?,yes,yes,Yes,True,0.3237544200001139,random
+000000003845,Is there a fire hydrant in the image?,no,no,No,True,0.3163729770003556,random
+000000003845,Is there a fork in the image?,yes,yes,Yes,True,0.3204079110000748,random
+000000003845,Is there a bear in the image?,no,no,No,True,0.32095533900064765,random
+000000310196,Is there a dining table in the image?,no,no,No,True,0.4058848829999988,popular
+000000310196,Is there a chair in the image?,no,no,No,True,0.41535261399985757,popular
+000000211674,Is there a dining table in the image?,no,no,No,True,0.3915434610007651,popular
+000000211674,Is there a chair in the image?,yes,no,No,False,0.39904527899943787,popular
+000000211674,Is there a cup in the image?,no,no,No,True,0.39324816099997406,popular
+000000283412,Is there a person in the image?,no,no,No,True,0.4033535610005856,popular
+000000283412,Is there a car in the image?,no,no,No,True,0.40896747299939307,popular
+000000283412,Is there a chair in the image?,no,no,No,True,0.4138499430000593,popular
+000000461331,Is there a person in the image?,no,no,No,True,0.47838079200028005,popular
+000000461331,Is there a dining table in the image?,no,no,No,True,0.47667355700014014,popular
+000000461331,Is there a car in the image?,no,no,No,True,0.47869450399957714,popular
+000000574692,Is there a dining table in the image?,no,no,No,True,0.4161107310001171,popular
+000000574692,Is there a car in the image?,no,no,No,True,0.41659288899973035,popular
+000000574692,Is there a chair in the image?,no,no,No,True,0.4199935229999028,popular
+000000300368,Is there a car in the image?,no,no,No,True,0.47327983000013774,popular
+000000300368,Is there a chair in the image?,no,no,No,True,0.4768684230002691,popular
+000000300368,Is there a cup in the image?,no,no,No,True,0.48689712199939095,popular
+000000516916,Is there a person in the image?,no,no,No,True,0.4766604409996944,popular
+000000516916,Is there a car in the image?,no,no,No,True,0.470812152999315,popular
+000000516916,Is there a cup in the image?,no,no,No,True,0.47714813299990055,popular
+000000297078,Is there a dining table in the image?,no,no,No,True,0.31595147299958626,popular
+000000297078,Is there a car in the image?,no,no,No,True,0.3268345930000578,popular
+000000297078,Is there a chair in the image?,no,no,No,True,0.3227540180005235,popular
+000000033270,Is there a dining table in the image?,no,no,No,True,0.4053134960004172,popular
+000000033270,Is there a car in the image?,no,no,No,True,0.4144574500005547,popular
+000000033270,Is there a chair in the image?,no,no,No,True,0.41080048799994984,popular
+000000288639,Is there a person in the image?,no,no,No,True,0.4716038610004034,popular
+000000288639,Is there a dining table in the image?,no,no,No,True,0.47375408099924243,popular
+000000288639,Is there a car in the image?,no,no,No,True,0.4695583419998002,popular
+000000526321,Is there a person in the image?,yes,no,No,False,0.28676462800012814,popular
+000000526321,Is there a car in the image?,no,yes,Yes,False,0.2851671240005089,popular
+000000526321,Is there a chair in the image?,no,no,No,True,0.2959659999996802,popular
+000000360600,Is there a dining table in the image?,no,no,No,True,0.4763968430006571,popular
+000000360600,Is there a car in the image?,no,no,No,True,0.47467958300057944,popular
+000000360600,Is there a chair in the image?,no,no,No,True,0.4800843570001234,popular
+000000500257,Is there a dining table in the image?,no,no,No,True,0.33428237499992974,popular
+000000500257,Is there a car in the image?,no,no,No,True,0.3326795379998657,popular
+000000500257,Is there a chair in the image?,no,no,No,True,0.3316605790005269,popular
+000000565941,Is there a car in the image?,no,no,No,True,0.3280242950004322,popular
+000000565941,Is there a backpack in the image?,no,no,no,True,0.33053748900056235,popular
+000000565941,Is there a handbag in the image?,no,no,no,True,0.3230992070002685,popular
+000000329717,Is there a dining table in the image?,no,no,No,True,0.3290194009996412,popular
+000000329717,Is there a car in the image?,no,no,No,True,0.3240351929998724,popular
+000000329717,Is there a chair in the image?,no,no,No,True,0.3189369709998573,popular
+000000236865,Is there a dining table in the image?,no,no,No,True,0.47884947399961675,popular
+000000236865,Is there a chair in the image?,no,no,No,True,0.46815234599944233,popular
+000000236865,Is there a cup in the image?,no,no,No,True,0.4836330389998693,popular
+000000311327,Is there a dining table in the image?,no,no,No,True,0.47638483100035955,popular
+000000311327,Is there a chair in the image?,no,no,No,True,0.4827165899996544,popular
+000000564336,Is there a cup in the image?,no,no,No,True,0.38325731200075097,popular
+000000131018,Is there a dining table in the image?,no,no,No,True,0.4722663430002285,popular
+000000131018,Is there a car in the image?,no,no,No,True,0.47811945699959324,popular
+000000131018,Is there a chair in the image?,no,no,No,True,0.47715643199990154,popular
+000000207205,Is there a person in the image?,no,no,No,True,0.47975081900040095,popular
+000000207205,Is there a car in the image?,no,no,No,True,0.47805840500041086,popular
+000000498374,Is there a dining table in the image?,no,no,No,True,0.47659387000021525,popular
+000000498374,Is there a car in the image?,no,no,No,True,0.4778082289994927,popular
+000000498374,Is there a chair in the image?,no,no,No,True,0.48881700600031763,popular
+000000190185,Is there a person in the image?,no,no,No,True,0.4803979909993359,popular
+000000190185,Is there a dining table in the image?,yes,yes,Yes,True,0.48349024199978885,popular
+000000190185,Is there a car in the image?,no,no,No,True,0.4779384610001216,popular
+000000520524,Is there a person in the image?,no,no,No,True,0.48108344899992517,popular
+000000520524,Is there a chair in the image?,no,no,No,True,0.48091153999939706,popular
+000000520524,Is there a cup in the image?,no,no,No,True,0.4783212620004633,popular
+000000387098,Is there a person in the image?,yes,no,No,False,0.4769296499998745,popular
+000000387098,Is there a car in the image?,no,no,No,True,0.4792097110002942,popular
+000000387098,Is there a chair in the image?,no,no,No,True,0.4768690320006499,popular
+000000069196,Is there a dining table in the image?,no,no,No,True,0.4986032979995798,popular
+000000069196,Is there a car in the image?,no,no,No,True,0.4900498819997665,popular
+000000069196,Is there a chair in the image?,no,no,No,True,0.493666630000007,popular
+000000032610,Is there a person in the image?,no,no,No,True,0.40500645300016913,popular
+000000032610,Is there a car in the image?,no,no,No,True,0.4054888900000151,popular
+000000032610,Is there a chair in the image?,no,no,No,True,0.4135051260000182,popular
+000000288042,Is there a dining table in the image?,no,no,No,True,0.4750268230000074,popular
+000000288042,Is there a car in the image?,yes,no,No,False,0.46926440700008243,popular
+000000288042,Is there a chair in the image?,no,no,No,True,0.48704544700012775,popular
+000000467176,Is there a dining table in the image?,no,no,No,True,0.40997108000010485,popular
+000000467176,Is there a car in the image?,no,no,No,True,0.4094067340001857,popular
+000000467176,Is there a bottle in the image?,no,no,no,True,0.408171148999827,popular
+000000551908,Is there a person in the image?,no,no,No,True,0.41578587900039565,popular
+000000551908,Is there a car in the image?,no,no,No,True,0.41741112299951055,popular
+000000551908,Is there a chair in the image?,no,no,No,True,0.4155745919997571,popular
+000000327771,Is there a person in the image?,no,no,No,True,0.47979978599960305,popular
+000000327771,Is there a car in the image?,no,no,No,True,0.4757544260000941,popular
+000000327771,Is there a chair in the image?,no,no,No,True,0.47954350799955137,popular
+000000189694,Is there a dining table in the image?,no,no,No,True,0.4793743070003984,popular
+000000189694,Is there a car in the image?,no,no,No,True,0.47443461300008494,popular
+000000189694,Is there a chair in the image?,no,no,No,True,0.4789424329992471,popular
+000000506178,Is there a dining table in the image?,no,no,No,True,0.322606619999533,popular
+000000506178,Is there a car in the image?,no,no,no,True,0.3188954420002119,popular
+000000249720,Is there a dining table in the image?,no,no,No,True,0.28830031100005726,popular
+000000249720,Is there a chair in the image?,no,no,No,True,0.2917606600003637,popular
+000000249720,Is there a cup in the image?,no,no,No,True,0.29056080099962855,popular
+000000227204,Is there a car in the image?,no,no,No,True,0.4682409799997913,popular
+000000227204,Is there a chair in the image?,yes,no,No,False,0.47701272899939795,popular
+000000227204,Is there a backpack in the image?,no,no,No,True,0.474547376999908,popular
+000000574790,Is there a person in the image?,yes,no,No,False,0.41179285399994114,popular
+000000574790,Is there a dining table in the image?,no,no,No,True,0.4104359180000756,popular
+000000574790,Is there a chair in the image?,no,no,No,True,0.41203688600035093,popular
+000000498100,Is there a car in the image?,no,no,No,True,0.5127156769995054,popular
+000000498100,Is there a chair in the image?,no,no,no,True,0.5092010959997424,popular
+000000498100,Is there a cup in the image?,no,no,No,True,0.520299038000303,popular
+000000049473,Is there a person in the image?,no,no,No,True,0.3205047729998114,popular
+000000049473,Is there a car in the image?,no,no,No,True,0.2889680930002214,popular
+000000049473,Is there a chair in the image?,no,no,No,True,0.2893444199999067,popular
+000000303652,Is there a person in the image?,no,no,No,True,0.4848465719996966,popular
+000000303652,Is there a car in the image?,no,no,No,True,0.4783694549996653,popular
+000000201148,Is there a dining table in the image?,no,no,No,True,0.3813017040001796,popular
+000000201148,Is there a chair in the image?,no,no,No,True,0.37550807200022973,popular
+000000355342,Is there a dining table in the image?,no,no,No,True,0.41635255300025165,popular
+000000355342,Is there a car in the image?,no,no,No,True,0.40977949399984936,popular
+000000355342,Is there a chair in the image?,no,no,No,True,0.40762116400037485,popular
+000000333237,Is there a person in the image?,no,no,No,True,0.4093417659996703,popular
+000000333237,Is there a car in the image?,no,no,No,True,0.41020275200025935,popular
+000000333237,Is there a cup in the image?,no,no,No,True,0.4158820270004071,popular
+000000025972,Is there a person in the image?,no,no,No,True,0.48316985000019486,popular
+000000025972,Is there a dining table in the image?,no,no,No,True,0.48654104999968695,popular
+000000025972,Is there a cup in the image?,no,no,No,True,0.47306854100042983,popular
+000000037900,Is there a person in the image?,no,no,No,True,0.4102004169999418,popular
+000000037900,Is there a dining table in the image?,no,no,No,True,0.40792345399950136,popular
+000000037900,Is there a car in the image?,no,no,No,True,0.40987488599967037,popular
+000000534516,Is there a car in the image?,yes,no,No,False,0.41057412200007093,popular
+000000534516,Is there a chair in the image?,no,no,No,True,0.40505463800036523,popular
+000000123017,Is there a person in the image?,no,no,No,True,0.4749749749998955,popular
+000000123017,Is there a car in the image?,no,no,No,True,0.48652471900004457,popular
+000000123017,Is there a cup in the image?,no,no,No,True,0.4701767810001911,popular
+000000316237,Is there a dining table in the image?,no,no,No,True,0.4932373739993636,popular
+000000316237,Is there a car in the image?,no,no,No,True,0.4939366529997642,popular
+000000407386,Is there a person in the image?,no,no,No,True,0.4814895310000793,popular
+000000407386,Is there a car in the image?,no,no,No,True,0.4735931690001962,popular
+000000407386,Is there a chair in the image?,no,no,No,True,0.47759964399938326,popular
+000000377352,Is there a dining table in the image?,no,no,No,True,0.40904096599933837,popular
+000000377352,Is there a chair in the image?,no,no,No,True,0.40336677499999496,popular
+000000377352,Is there a cup in the image?,no,no,No,True,0.411585875000128,popular
+000000463640,Is there a car in the image?,no,no,No,True,0.5774268119994304,popular
+000000463640,Is there a chair in the image?,no,no,No,True,0.5852401470001496,popular
+000000463640,Is there a cup in the image?,no,no,No,True,0.5827847410000686,popular
+000000472143,Is there a cup in the image?,no,no,No,True,0.613917906000097,popular
+000000472143,Is there a bottle in the image?,yes,no,No,False,0.6060844339999676,popular
+000000281028,Is there a dining table in the image?,no,no,No,True,0.47798622499976773,popular
+000000281028,Is there a cup in the image?,no,no,No,True,0.4780622640000729,popular
+000000281028,Is there a bottle in the image?,no,no,No,True,0.47586913099985395,popular
+000000482829,Is there a dining table in the image?,no,no,No,True,0.40972896400035097,popular
+000000482829,Is there a car in the image?,no,no,No,True,0.4145993570000428,popular
+000000482829,Is there a chair in the image?,no,no,No,True,0.41162430999975186,popular
+000000097994,Is there a person in the image?,yes,no,No,False,0.41630724600054236,popular
+000000097994,Is there a car in the image?,no,no,No,True,0.4100025980005739,popular
+000000097994,Is there a chair in the image?,no,no,No,True,0.4110787489998984,popular
+000000348524,Is there a dining table in the image?,no,no,No,True,0.4068346809999639,popular
+000000348524,Is there a car in the image?,no,no,No,True,0.4084852599999067,popular
+000000348524,Is there a chair in the image?,no,no,No,True,0.4079421500000535,popular
+000000301575,Is there a dining table in the image?,no,no,No,True,0.516094085000077,popular
+000000301575,Is there a car in the image?,no,no,No,True,0.5154029860004812,popular
+000000301575,Is there a cup in the image?,no,no,No,True,0.5134167219994197,popular
+000000343401,Is there a dining table in the image?,no,no,No,True,0.3217372629997044,popular
+000000343401,Is there a cup in the image?,no,no,No,True,0.3185716689995388,popular
+000000281766,Is there a dining table in the image?,no,no,No,True,0.41400553900075465,popular
+000000281766,Is there a car in the image?,no,no,No,True,0.4081637680001222,popular
+000000281766,Is there a chair in the image?,no,no,No,True,0.40557069800070167,popular
+000000312406,Is there a person in the image?,no,no,No,True,0.47232634400006646,popular
+000000312406,Is there a car in the image?,no,no,No,True,0.4736633900001834,popular
+000000312406,Is there a chair in the image?,no,no,No,True,0.47129285000028176,popular
+000000418680,Is there a dining table in the image?,no,no,No,True,0.4749225320001642,popular
+000000418680,Is there a car in the image?,no,no,No,True,0.4817922680003903,popular
+000000418680,Is there a chair in the image?,no,no,No,True,0.4730439380000462,popular
+000000044801,Is there a dining table in the image?,no,no,No,True,0.28851561399915227,popular
+000000044801,Is there a chair in the image?,no,no,No,True,0.28696750000017346,popular
+000000044801,Is there a cup in the image?,no,no,No,True,0.29263274900040415,popular
+000000452297,Is there a person in the image?,no,no,No,True,0.4194248379999408,popular
+000000452297,Is there a car in the image?,no,no,No,True,0.40504727000006824,popular
+000000172648,Is there a chair in the image?,no,no,No,True,0.47590647699962574,popular
+000000172648,Is there a cup in the image?,no,no,No,True,0.4763318889999937,popular
+000000308907,Is there a dining table in the image?,no,no,No,True,0.29438001699963934,popular
+000000308907,Is there a car in the image?,yes,no,No,False,0.2853734179998355,popular
+000000308907,Is there a chair in the image?,no,no,No,True,0.283909233000486,popular
+000000454607,Is there a car in the image?,no,no,No,True,0.4717205999995713,popular
+000000454607,Is there a chair in the image?,no,no,No,True,0.4797193829999742,popular
+000000348469,Is there a dining table in the image?,no,no,No,True,0.41356944299968745,popular
+000000348469,Is there a car in the image?,no,no,No,True,0.4079220269995858,popular
+000000348469,Is there a chair in the image?,no,no,No,True,0.414624453000215,popular
+000000114941,Is there a dining table in the image?,no,no,No,True,0.4157425040002636,popular
+000000114941,Is there a chair in the image?,no,no,No,True,0.4051427740005238,popular
+000000114941,Is there a cup in the image?,no,no,No,True,0.4079008070002601,popular
+000000382617,Is there a car in the image?,no,no,No,True,0.4691196339999806,popular
+000000382617,Is there a chair in the image?,no,no,No,True,0.4796815700001389,popular
+000000467887,Is there a car in the image?,no,no,No,True,0.4762304510004469,popular
+000000467887,Is there a cup in the image?,no,no,no,True,0.471376517999488,popular
+000000467887,Is there a bottle in the image?,no,no,No,True,0.47892156099987915,popular
+000000120792,Is there a dining table in the image?,no,no,No,True,0.47605518199998187,popular
+000000120792,Is there a car in the image?,no,no,No,True,0.4793582090005657,popular
+000000120792,Is there a backpack in the image?,no,no,No,True,0.47662944800049445,popular
+000000125524,Is there a dining table in the image?,no,no,No,True,0.4146478399998159,popular
+000000125524,Is there a chair in the image?,no,no,No,True,0.416151606999847,popular
+000000155131,Is there a dining table in the image?,yes,no,No,False,0.47535152199998265,popular
+000000155131,Is there a car in the image?,no,no,No,True,0.482161513000392,popular
+000000155131,Is there a chair in the image?,yes,yes,Yes,True,0.4699612510003135,popular
+000000501652,Is there a dining table in the image?,no,no,No,True,0.47922740099966177,popular
+000000501652,Is there a cup in the image?,no,no,No,True,0.47248692700031825,popular
+000000501652,Is there a bottle in the image?,no,no,No,True,0.47776982199957274,popular
+000000233521,Is there a dining table in the image?,no,no,No,True,0.413266568999461,popular
+000000233521,Is there a car in the image?,no,no,No,True,0.40609839299941086,popular
+000000233521,Is there a chair in the image?,no,no,No,True,0.4015171459996054,popular
+000000068418,Is there a person in the image?,no,no,No,True,0.47539176600002975,popular
+000000068418,Is there a car in the image?,no,no,No,True,0.47573499099962646,popular
+000000021327,Is there a car in the image?,no,no,No,True,0.40849965399957,popular
+000000021327,Is there a chair in the image?,no,no,No,True,0.40950743399935163,popular
+000000553992,Is there a dining table in the image?,no,no,No,True,0.3288740340003642,popular
+000000553992,Is there a car in the image?,no,no,No,True,0.3312222840004324,popular
+000000553992,Is there a cup in the image?,no,no,no,True,0.32434224099961284,popular
+000000044993,Is there a person in the image?,no,no,No,True,0.4061547640003482,popular
+000000044993,Is there a dining table in the image?,no,no,No,True,0.40956587999971816,popular
+000000044993,Is there a car in the image?,no,no,No,True,0.40762166700005764,popular
+000000337502,Is there a person in the image?,no,no,No,True,0.4089242700001705,popular
+000000337502,Is there a dining table in the image?,no,no,No,True,0.4158598220001295,popular
+000000337502,Is there a car in the image?,no,no,No,True,0.40165176299979066,popular
+000000472375,Is there a person in the image?,no,no,No,True,0.5607781609996891,popular
+000000472375,Is there a dining table in the image?,no,no,No,True,0.563156729000184,popular
+000000472375,Is there a car in the image?,no,no,No,True,0.5592597539998678,popular
+000000446651,Is there a dining table in the image?,no,no,No,True,0.4023011179997411,popular
+000000446651,Is there a chair in the image?,no,no,No,True,0.41081934700014244,popular
+000000446651,Is there a cup in the image?,no,no,No,True,0.41869185799987463,popular
+000000267684,Is there a dining table in the image?,no,no,No,True,0.4732768230005604,popular
+000000267684,Is there a car in the image?,no,no,No,True,0.4716834569999264,popular
+000000267684,Is there a chair in the image?,no,no,No,True,0.4746308029998545,popular
+000000149592,Is there a dining table in the image?,no,no,No,True,0.40745136399982584,popular
+000000149592,Is there a chair in the image?,no,no,No,True,0.4076938549997067,popular
+000000458325,Is there a dining table in the image?,no,no,No,True,0.40558776700072485,popular
+000000458325,Is there a cup in the image?,no,no,No,True,0.40906775900020875,popular
+000000378751,Is there a person in the image?,no,no,No,True,0.4815694729995812,popular
+000000378751,Is there a dining table in the image?,no,no,No,True,0.4744761110005129,popular
+000000378751,Is there a car in the image?,no,no,No,True,0.4779596260004837,popular
+000000052689,Is there a dining table in the image?,no,no,No,True,0.4082220630007214,popular
+000000052689,Is there a car in the image?,no,no,No,True,0.4102763850005431,popular
+000000052689,Is there a chair in the image?,no,yes,Yes,False,0.4059059780001917,popular
+000000516601,Is there a dining table in the image?,no,no,No,True,0.39640870099992753,popular
+000000516601,Is there a car in the image?,no,no,No,True,0.3757719499999439,popular
+000000516601,Is there a chair in the image?,no,no,No,True,0.3815597990005699,popular
+000000562155,Is there a dining table in the image?,no,no,No,True,0.47430558300038683,popular
+000000562155,Is there a chair in the image?,no,no,No,True,0.46802348300025187,popular
+000000562155,Is there a cup in the image?,no,no,No,True,0.47154398600014247,popular
+000000521643,Is there a person in the image?,no,no,No,True,0.49086862900003325,popular
+000000521643,Is there a car in the image?,no,no,No,True,0.4949500259999695,popular
+000000521643,Is there a chair in the image?,no,no,No,True,0.49252663100014615,popular
+000000514292,Is there a person in the image?,no,no,No,True,0.47506999900087976,popular
+000000514292,Is there a dining table in the image?,no,no,No,True,0.4789621410000109,popular
+000000191964,Is there a dining table in the image?,no,no,No,True,0.32335745399996085,popular
+000000191964,Is there a car in the image?,no,no,No,True,0.3231416180005908,popular
+000000265472,Is there a person in the image?,no,no,No,True,0.3174196390000361,popular
+000000265472,Is there a car in the image?,no,no,No,True,0.3233589920000668,popular
+000000550514,Is there a dining table in the image?,no,no,No,True,0.4733963220005535,popular
+000000550514,Is there a car in the image?,no,no,No,True,0.4822036850000586,popular
+000000550514,Is there a chair in the image?,no,no,No,True,0.48336513599952013,popular
+000000233426,Is there a person in the image?,no,no,No,True,0.4157870600001843,popular
+000000233426,Is there a car in the image?,no,no,No,True,0.41319507400021394,popular
+000000233426,Is there a chair in the image?,no,no,No,True,0.4112383480005519,popular
+000000372817,Is there a dining table in the image?,no,no,No,True,0.40578210599960585,popular
+000000372817,Is there a chair in the image?,no,no,No,True,0.4108622040002956,popular
+000000372817,Is there a cup in the image?,no,no,No,True,0.4065977849995761,popular
+000000079213,Is there a dining table in the image?,no,no,No,True,0.4762973749993762,popular
+000000434179,Is there a person in the image?,no,no,No,True,0.472178339000493,popular
+000000434179,Is there a car in the image?,no,no,No,True,0.4695713050004997,popular
+000000434179,Is there a bottle in the image?,no,no,No,True,0.47309901300013735,popular
+000000008749,Is there a person in the image?,no,no,No,True,0.42015044999970996,popular
+000000008749,Is there a car in the image?,no,no,No,True,0.41469020400018053,popular
+000000008749,Is there a chair in the image?,no,no,No,True,0.4203773990002446,popular
+000000235203,Is there a dining table in the image?,no,no,No,True,0.48141125999973156,popular
+000000235203,Is there a car in the image?,no,no,No,True,0.4848057740000513,popular
+000000235203,Is there a cup in the image?,no,no,No,True,0.4818042200004129,popular
+000000468997,Is there a dining table in the image?,no,no,No,True,0.4766603260004558,popular
+000000468997,Is there a car in the image?,no,no,No,True,0.47373307699945144,popular
+000000468997,Is there a chair in the image?,yes,no,No,False,0.47831447499993374,popular
+000000003845,Is there a person in the image?,no,no,No,True,0.31881994000013947,popular
+000000003845,Is there a car in the image?,no,no,No,True,0.32387916700008645,popular
+000000003845,Is there a chair in the image?,yes,yes,Yes,True,0.3235368319992631,popular
+000000310196,Is there a backpack in the image?,no,yes,Yes,False,0.40994901200065215,adversarial
+000000310196,Is there a dog in the image?,no,no,No,True,0.4103376049997678,adversarial
+000000211674,Is there a vase in the image?,no,no,No,True,0.39183087699984753,adversarial
+000000211674,Is there a truck in the image?,no,no,No,True,0.39466138500029047,adversarial
+000000461331,Is there a book in the image?,no,no,No,True,0.47628749899922695,adversarial
+000000461331,Is there a bottle in the image?,no,no,No,True,0.4762775649996911,adversarial
+000000574692,Is there a cup in the image?,no,no,No,True,0.4079696500002683,adversarial
+000000300368,Is there a bottle in the image?,no,no,No,True,0.4746047959997668,adversarial
+000000516916,Is there a book in the image?,no,no,No,True,0.47945083800004795,adversarial
+000000516916,Is there a bottle in the image?,no,no,No,True,0.47676070599936793,adversarial
+000000297078,Is there a handbag in the image?,no,no,No,True,0.3208207609995952,adversarial
+000000297078,Is there a snowboard in the image?,no,no,No,True,0.31841476099998545,adversarial
+000000526321,Is there a couch in the image?,no,no,No,True,0.2853570500001297,adversarial
+000000526321,Is there a cup in the image?,no,no,no,True,0.2900922700000592,adversarial
+000000360600,Is there a spoon in the image?,no,yes,Yes.,False,0.5367254920001869,adversarial
+000000565941,Is there a laptop in the image?,no,no,No,True,0.31933101300001,adversarial
+000000329717,Is there a backpack in the image?,no,no,No,True,0.322447070000635,adversarial
+000000236865,Is there a bowl in the image?,no,no,No,True,0.47945594400061964,adversarial
+000000236865,Is there a truck in the image?,no,no,No,True,0.4772563930000615,adversarial
+000000311327,Is there a bird in the image?,no,no,No,True,0.4863118350003788,adversarial
+000000311327,Is there a backpack in the image?,no,no,No,True,0.47785815699990053,adversarial
+000000564336,Is there a traffic light in the image?,no,no,No,True,0.38020765599958395,adversarial
+000000564336,Is there a tv in the image?,no,no,No,True,0.38336383600017143,adversarial
+000000131018,Is there a sandwich in the image?,no,no,No,True,0.4868769320000865,adversarial
+000000207205,Is there a bowl in the image?,no,no,No,True,0.47824618499998905,adversarial
+000000498374,Is there a bottle in the image?,no,no,no,True,0.4760442899996633,adversarial
+000000498374,Is there a vase in the image?,no,no,no,True,0.47770665299958637,adversarial
+000000520524,Is there a bus in the image?,no,no,No,True,0.48145848700005445,adversarial
+000000387098,Is there a bowl in the image?,no,no,No,True,0.49051761599912425,adversarial
+000000387098,Is there a couch in the image?,no,no,No,True,0.4797798239997064,adversarial
+000000069196,Is there a skis in the image?,no,no,No,True,0.5005061649999334,adversarial
+000000069196,Is there a truck in the image?,no,no,No,True,0.4984579620004297,adversarial
+000000032610,Is there a tv in the image?,no,no,No,True,0.4116179589991589,adversarial
+000000288042,Is there a handbag in the image?,no,no,No,True,0.4837451980001788,adversarial
+000000467176,Is there a vase in the image?,no,no,No,True,0.41348568400007935,adversarial
+000000551908,Is there a bowl in the image?,no,no,No,True,0.4091713300003903,adversarial
+000000551908,Is there a book in the image?,no,no,No,True,0.4144696350003869,adversarial
+000000327771,Is there a cup in the image?,no,no,No,True,0.4866179569999076,adversarial
+000000189694,Is there a toilet in the image?,no,no,No,True,0.4754273179996744,adversarial
+000000506178,Is there a book in the image?,no,no,No,True,0.3255367360006858,adversarial
+000000506178,Is there a tv in the image?,no,no,no,True,0.3179565750006077,adversarial
+000000249720,Is there a handbag in the image?,no,yes,Yes,False,0.28787658200053556,adversarial
+000000249720,Is there a bus in the image?,no,no,No,True,0.2900460130003921,adversarial
+000000227204,Is there an orange in the image?,no,no,no,True,0.474968090999937,adversarial
+000000227204,Is there an oven in the image?,no,yes,Yes,False,0.4827644299994063,adversarial
+000000574790,Is there a motorcycle in the image?,no,no,No,True,0.4089582530004918,adversarial
+000000574790,Is there a bus in the image?,no,no,No,True,0.41103278399987175,adversarial
+000000498100,Is there a potted plant in the image?,no,no,No,True,0.5079401720004171,adversarial
+000000049473,Is there a potted plant in the image?,no,yes,Yes,False,0.293727353999202,adversarial
+000000049473,Is there a cup in the image?,no,no,No,True,0.2871510329996454,adversarial
+000000303652,Is there a bowl in the image?,no,no,No,True,0.5141720090005037,adversarial
+000000303652,Is there a bottle in the image?,no,no,No,True,0.4831979519995002,adversarial
+000000201148,Is there a truck in the image?,no,no,No,True,0.3806716689996392,adversarial
+000000355342,Is there a handbag in the image?,no,no,No,True,0.4065777369996795,adversarial
+000000333237,Is there a book in the image?,no,no,No,True,0.4121218709997265,adversarial
+000000025972,Is there a tv in the image?,no,no,No,True,0.48571453300064604,adversarial
+000000025972,Is there a bus in the image?,no,no,No,True,0.47471254999982193,adversarial
+000000037900,Is there a cup in the image?,no,no,No,True,0.408879737999996,adversarial
+000000534516,Is there a cup in the image?,no,no,No,True,0.4094588070001919,adversarial
+000000123017,Is there a couch in the image?,no,no,No,True,0.47658175800006575,adversarial
+000000316237,Is there a backpack in the image?,no,no,No,True,0.49159848100043746,adversarial
+000000407386,Is there a cup in the image?,no,no,No,True,0.48155244200006564,adversarial
+000000377352,Is there a truck in the image?,no,no,No,True,0.40522399000019504,adversarial
+000000377352,Is there a bus in the image?,no,no,No,True,0.4116437399998176,adversarial
+000000472143,Is there a boat in the image?,no,no,No,True,0.6132746450002742,adversarial
+000000281028,Is there a handbag in the image?,no,no,No,True,0.47624670999994123,adversarial
+000000482829,Is there a baseball glove in the image?,no,no,No,True,0.40252013400004216,adversarial
+000000097994,Is there a bowl in the image?,no,no,No,True,0.4177981530001489,adversarial
+000000348524,Is there a dog in the image?,no,no,No,True,0.4100168919994758,adversarial
+000000301575,Is there a remote in the image?,no,no,No,True,0.5080913189995044,adversarial
+000000343401,Is there a truck in the image?,no,no,No,True,0.31910270000025776,adversarial
+000000343401,Is there a frisbee in the image?,no,no,No,True,0.3192468719998942,adversarial
+000000281766,Is there a motorcycle in the image?,no,no,No,True,0.4172428450001462,adversarial
+000000281766,Is there a backpack in the image?,no,no,No,True,0.4080464270000448,adversarial
+000000312406,Is there a spoon in the image?,no,yes,Yes,False,0.4801691410002604,adversarial
+000000312406,Is there a bottle in the image?,no,no,No,True,0.4743252950001988,adversarial
+000000418680,Is there a backpack in the image?,no,no,No,True,0.482747902000483,adversarial
+000000418680,Is there a dog in the image?,no,no,No,True,0.4688841899996987,adversarial
+000000044801,Is there a backpack in the image?,no,no,no,True,0.29734449199986557,adversarial
+000000044801,Is there a handbag in the image?,no,no,No,True,0.29080667899961554,adversarial
+000000452297,Is there a bottle in the image?,no,no,No,True,0.4148704280005404,adversarial
+000000172648,Is there a traffic light in the image?,no,no,No,True,0.4834834289995342,adversarial
+000000172648,Is there a bus in the image?,no,no,No,True,0.4849596770000062,adversarial
+000000308907,Is there a motorcycle in the image?,no,no,No,True,0.2953055450007014,adversarial
+000000454607,Is there a tv in the image?,no,no,No,True,0.4762068800000634,adversarial
+000000348469,Is there a handbag in the image?,no,no,No,True,0.40645066800061613,adversarial
+000000348469,Is there a sports ball in the image?,no,no,No,True,0.40835916900050506,adversarial
+000000114941,Is there a truck in the image?,no,no,No,True,0.419929561000572,adversarial
+000000114941,Is there a bus in the image?,no,no,No,True,0.4120154919992274,adversarial
+000000382617,Is there a laptop in the image?,no,no,No,True,0.47591160200045124,adversarial
+000000382617,Is there a tv in the image?,no,no,No,True,0.4802193309997165,adversarial
+000000467887,Is there a tv in the image?,no,no,No,True,0.47451704499962943,adversarial
+000000467887,Is there a book in the image?,no,no,No,True,0.4793679360000169,adversarial
+000000120792,Is there a handbag in the image?,no,no,No,True,0.4685500929999762,adversarial
+000000125524,Is there a traffic light in the image?,no,no,No,True,0.4320598969998173,adversarial
+000000125524,Is there a stop sign in the image?,no,no,No,True,0.40620951399978367,adversarial
+000000155131,Is there a baseball glove in the image?,no,no,No,True,0.47531671699925937,adversarial
+000000501652,Is there a handbag in the image?,no,no,No,True,0.4718419079999876,adversarial
+000000501652,Is there a truck in the image?,no,no,No,True,0.4705072030001247,adversarial
+000000068418,Is there a chair in the image?,no,no,No,True,0.4700843780001378,adversarial
+000000021327,Is there a bottle in the image?,no,no,No,True,0.40437329600081284,adversarial
+000000553992,Is there a couch in the image?,no,no,No,True,0.3147728929998266,adversarial
+000000044993,Is there a cup in the image?,no,no,No,True,0.4039531859998533,adversarial
+000000337502,Is there a carrot in the image?,no,no,No,True,0.4071906790004505,adversarial
+000000337502,Is there a bottle in the image?,no,no,No,True,0.40819550800006255,adversarial
+000000446651,Is there a bicycle in the image?,no,no,No,True,0.4040876399994886,adversarial
+000000446651,Is there a truck in the image?,no,yes,Yes,False,0.4105277559992828,adversarial
+000000267684,Is there a handbag in the image?,no,no,No,True,0.4778577379993294,adversarial
+000000267684,Is there a snowboard in the image?,no,no,No,True,0.47173857300003874,adversarial
+000000149592,Is there a bird in the image?,no,no,No,True,0.4060944559996642,adversarial
+000000458325,Is there a bus in the image?,no,no,No,True,0.4057237070001065,adversarial
+000000378751,Is there a book in the image?,no,no,No,True,0.4820548179995967,adversarial
+000000516601,Is there a backpack in the image?,no,no,No,True,0.3878599119998398,adversarial
+000000516601,Is there a dog in the image?,no,no,No,True,0.3767198809991896,adversarial
+000000562155,Is there a truck in the image?,no,no,No,True,0.47386029199969926,adversarial
+000000521643,Is there a potted plant in the image?,no,no,No,True,0.4984088929995778,adversarial
+000000521643,Is there a cup in the image?,no,no,No,True,0.4931278200001543,adversarial
+000000514292,Is there a bed in the image?,no,no,No,True,0.4833594669999002,adversarial
+000000514292,Is there a couch in the image?,no,no,No,True,0.48224526600006357,adversarial
+000000191964,Is there a couch in the image?,no,no,No,True,0.3204144310002448,adversarial
+000000265472,Is there a cup in the image?,no,no,No,True,0.32929626499935694,adversarial
+000000550514,Is there a surfboard in the image?,no,no,No,True,0.48053238299962686,adversarial
+000000550514,Is there a handbag in the image?,no,no,no,True,0.47727095000027475,adversarial
+000000233426,Is there a cup in the image?,no,no,No,True,0.4067089580003085,adversarial
+000000372817,Is there a backpack in the image?,no,yes,Yes,False,0.4141237909998381,adversarial
+000000079213,Is there a tv in the image?,no,no,no,True,0.47671811200052616,adversarial
+000000235203,Is there a tv in the image?,no,no,no,True,0.4710001169996758,adversarial
+000000235203,Is there a book in the image?,no,no,No,True,0.47835254700021324,adversarial
+000000468997,Is there a dog in the image?,no,no,No,True,0.4853392119994169,adversarial
+000000468997,Is there a tennis racket in the image?,no,no,No,True,0.4735167750004621,adversarial
+000000003845,Is there a bowl in the image?,no,no,No,True,0.3218232219996935,adversarial
+000000003845,Is there a knife in the image?,no,no,No,True,0.31733019500006776,adversarial

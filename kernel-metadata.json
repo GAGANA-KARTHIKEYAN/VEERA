@@ -1,0 +1,15 @@
+{
+  "id": "gaganakp/veera-kaggle-gpu-deployment",
+  "title": "VEERA Kaggle GPU Deployment",
+  "code_file": "VEERA_Kaggle_GPU_Deployment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "gaganakp/veera-finetuned-release"
+  ],
+  "machine_shape": "NvidiaTeslaT4"
+}
